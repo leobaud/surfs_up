@@ -1,6 +1,6 @@
 # surfs_up
 
-## Temperature analysis for JUne and December
+## Temperature analysis for June and December
 
 1) Temperatures in Oahu on June and December seem very similar. The mean for June is only 3 degrees higher than the mean in December. For both months through the 7 years of analysis the behavior is similar. With this information presented to the investors the can have more confidence that the business could be a success for these months. A mean temperature in the 70's signify a cool weather perfect for surfing and ice cream. It is not burning hot, nor extremely cold so that people won't get out of their houses.
 
